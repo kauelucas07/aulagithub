@@ -4,4 +4,6 @@ questao03
 
 questao05
 questao06
-
+questao07
+questao08
+questao09
